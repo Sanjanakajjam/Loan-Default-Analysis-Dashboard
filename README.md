@@ -14,9 +14,13 @@ This dashboard supports risk analysts, lending institutions, and data profession
 
 The dashboard was created using the following tools and technologies:
 • 📊 Power BI Desktop – Primary tool for data visualization and interactive dashboard creation.
+
 • 🔄 Power Query Editor – Data transformation and modeling.
+
 • 🧠 DAX (Data Analysis Expressions) – Used for key metrics such as default rate, loan amount averages, and YOY trends.
+
 • 📂 Data Modeling – Established relationships across borrower demographics, loan types, and performance indicators.
+
 • 🗃 File Formats – .pbix (dashboard), .png (screenshots).
 
 4. Data Source
