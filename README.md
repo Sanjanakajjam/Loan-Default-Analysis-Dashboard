@@ -126,7 +126,7 @@ Dashboard Pages Preview
 
 (All visual previews are included above.)
 
-8. Repository Structure
+7. Repository Structure
 📂 Loan-Default-Analysis-Dashboard
 ├── 📁 dashboard
 │   └── Dataflow.pbix
